@@ -1,7 +1,7 @@
 
-var antimatter = {}
-var sync9 = {}
-var sync8 = {}
+antimatter = {}
+sync9 = {}
+sync8 = {}
 
 if (typeof module != 'undefined') module.exports = {antimatter, sync9, sync8}
 
